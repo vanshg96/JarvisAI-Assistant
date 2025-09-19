@@ -1,0 +1,9 @@
+speechrecognition
+gTTS
+pygame
+requests
+openai
+yt-dlp
+python-vlc
+wikipedia
+python-dotenv
